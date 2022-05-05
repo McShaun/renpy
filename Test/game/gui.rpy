@@ -61,7 +61,7 @@ define gui.text_font = "Comic.ttf"
 define gui.name_text_font = "Rustico-Regular.otf"
 
 ## The font used for out-of-game text.
-define gui.interface_text_font = "DejaVuSans.ttf"
+define gui.interface_text_font = "Rustico-Regular.otf"
 
 ## The size of normal dialogue text.
 define gui.text_size = 22
