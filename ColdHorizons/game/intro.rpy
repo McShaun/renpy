@@ -12,7 +12,7 @@ label start:
     scene bg papers-intro-test
     with Dissolve(.7)
     #sound of papers rustling, papers background
-    #this is a random comment by Shaun
+    #this is the random comment by Shaun
     play music "audio/Fluorescent-sound_effect.mp3" loop
 
     ra "It will tell you how to fill out. You can figure rest out without me."
